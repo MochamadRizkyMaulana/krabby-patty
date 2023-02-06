@@ -1,3 +1,5 @@
 RESEP ORIGINAL
 1.ROTI
 2.SELADA
+3.keju
+4.daging

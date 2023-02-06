@@ -7,3 +7,5 @@ RESEP ORIGINAL
 6.saus
 7.mayones
 8.balado
+9.timun
+10.telor

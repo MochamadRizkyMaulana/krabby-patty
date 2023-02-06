@@ -5,3 +5,5 @@ RESEP ORIGINAL
 4.daging
 5.kecap
 6.saus
+7.mayones
+8.balado

@@ -3,3 +3,5 @@ RESEP ORIGINAL
 2.SELADA
 3.keju
 4.daging
+5.kecap
+6.saus
